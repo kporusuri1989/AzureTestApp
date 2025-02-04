@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zJqUwHEUSaAbaTLUMzgoojhJkfQL+R1NSmr7O1H1uNI=",
+  "Source": "AzureWebApp",
+  "BasePath": "_content/AzureWebApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

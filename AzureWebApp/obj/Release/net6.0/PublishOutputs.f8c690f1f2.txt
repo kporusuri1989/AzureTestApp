@@ -1,0 +1,7 @@
+C:\Users\kalya\source\repos\AzureWebApp\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.exe
+C:\Users\kalya\source\repos\AzureWebApp\AzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kalya\source\repos\AzureWebApp\AzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\kalya\source\repos\AzureWebApp\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.dll
+C:\Users\kalya\source\repos\AzureWebApp\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.deps.json
+C:\Users\kalya\source\repos\AzureWebApp\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.runtimeconfig.json
+C:\Users\kalya\source\repos\AzureWebApp\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.pdb
